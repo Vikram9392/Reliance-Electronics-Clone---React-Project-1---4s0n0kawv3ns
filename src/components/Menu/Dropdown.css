@@ -1,1 +1,35 @@
+.css-6hp17o-MuiList-root-MuiMenu-list {
+    background-color: var(--secondary-color);
+    color: #fff;
+}
+
+.css-p3aknm-MuiButtonBase-root-MuiMenuItem-root:hover {
+    background-color: var(--primary-color)!important;
+}
+
+.css-6hp17o-MuiList-root-MuiMenu-list a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.css-r8u8y9 {
+    background-color: var(--secondary-color);
+}
+
+.css-r8u8y9 a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.menuBtn-inset {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.menuBtn-text {
+    padding-right: .3125rem;
+}
+
 
